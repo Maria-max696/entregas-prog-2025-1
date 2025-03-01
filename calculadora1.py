@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
 """
-Título de práctica: breve descripción
+Título de práctica: Calculadora1
 
 Descripción extendida del programa
 
-Autor: ElAutor <el@correo>
-Fecha: 2025-02-01
+Autor: Maria Paula Galvis <mpgalviso@academia.usbbog.edu.co >
+Fecha: 2025-03-01
 """
 
 # **** En esta región puede importar los módulos necesarios para su programa
@@ -19,7 +19,7 @@ def run():
     # **** Poner el código ejecutable de su ejercicio aquí
 
     # Saludo
-    print("Calculadora basica miguel!")
+    print("Calculadora basica maria!")
     def calculadora():
         print("Calculadora Básica")
     print("Operaciones disponibles: +, -, *, /")
