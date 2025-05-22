@@ -3,7 +3,8 @@
 """
 Ejercicio 02: Menú de manipulación de texto
 
-Este script permite al usuario manipular una cadena de texto de diferentes formas:
+Este script permite al usuario manipular una cadena de texto
+de diferentes formas:
 - Convertir a minúsculas
 - Convertir a mayúsculas
 - Invertir mayúsculas y minúsculas
@@ -11,18 +12,17 @@ Este script permite al usuario manipular una cadena de texto de diferentes forma
 - Titular (cada palabra inicia con mayúscula)
 - Reemplazar espacios por guiones bajos
 
-Autor: Maria Paula Galvis Orjuela <mpgalviso@academia.usbbog.edu.co>
+Autor: Tu Nombre
+Correo: tu_correo@ejemplo.com
 Fecha: 2025-05-05
 """
 
-def run():
-    """Punto de entrada del script"""
 
-    # Solicitar al usuario una cadena de texto
+def run():
+    """Punto de entrada del script."""
     texto = input("< Ingrese una cadena de texto: ")
 
     while True:
-        # Mostrar el menú de opciones
         print("\n> Escriba 1 para pasar a minúsculas,")
         print("> 2 para pasar a mayúsculas,")
         print("> 3 para invertir mayúsculas y minúsculas")
@@ -30,10 +30,9 @@ def run():
         print("> 5 para pasar a titulación.")
         print("> 6 para reemplazar espacios por guiones bajos.")
         print("> 7 para salir.")
-        
+
         opcion = input("> < ")
 
-        # Ejecutar la opción seleccionada
         if opcion == "1":
             print(f"> Resultado: {texto.lower()}")
         elif opcion == "2":
