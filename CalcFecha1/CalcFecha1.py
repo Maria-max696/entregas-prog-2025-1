@@ -6,9 +6,9 @@ Ejercicio 02: Manipulación básica de fechas con segundos y días.
 Este script muestra la fecha actual y permite al usuario añadir
 segundos o días a esa fecha.
 
-Autor: Tu Nombre
-Correo: tu_correo@ejemplo.com
-Fecha: 2025-05-05
+Autor: Maria Paula Galvis Orjula
+Correo: mariapaulagalvisorjuela701@gmail.com
+Fecha: 2025-05-22
 """
 
 from datetime import datetime, timedelta
