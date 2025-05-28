@@ -12,8 +12,8 @@ de diferentes formas:
 - Titular (cada palabra inicia con mayúscula)
 - Reemplazar espacios por guiones bajos
 
-Autor: Tu Nombre <tu_correo@ejemplo.com>
-Fecha: 2025-05-05
+Autor: Maria Paula Galvis Orjuela <mariapaulagalvisorjuela701@gmail.com>
+Fecha: 2025-05-24
 """
 
 
